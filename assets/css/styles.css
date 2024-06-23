@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#txt-sol{
+    color: red;
+}
+#txt-sol2{
+    color: green;
+}
+#txt-sol3{
+    color: rgb(173, 173, 173);
+}
+#d1, #d2, #d3, #d4{
+    width: 200px;
+    height: 200px;
+}
+#d1{
+    background-color: blue;
+}
+#d2{
+    background-color: green;
+}
+#d3{
+    background-color: red;
+}
+#d4{
+    background-color: yellow;
+}
+#key{
+    width: 200px;
+    height: 200px;
+    border: solid 1px black;
+    background-color: white;
+}
+#miDiv {
+    width: 200px;
+    height: 200px;
+    border: solid 1px black;
+    background-color: violet;
+}
+#miDiv2 {
+    width: 200px;
+    height: 200px;
+    border: solid 1px black;
+    background-color: grey;
+}
+#miDiv3 {
+    width: 200px;
+    height: 200px;
+    border: solid 1px black;
+    background-color: brown;
+}
+#key2{
+    width: 200px;
+    height: 200px;
+    border: solid 1px black;
+    background-color: white;
+}
